@@ -1,0 +1,16 @@
+{
+  "name": "fastdebrid_bot",
+  "version": "1.0.0",
+  "description": "Debrids 1fichier.com links using fastdebrid.tk",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "node-libcurl": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
